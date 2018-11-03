@@ -1,6 +1,6 @@
 var hola = "bien o no";
 
-if (true) {
+if (true != 5<2) {
     console.log(hola);
-    var hola = " ";
+    var hola = 3500;
 }
